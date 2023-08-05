@@ -1,0 +1,22 @@
+
+  {
+    "user1": {
+      "username": "user1",
+      "password": "password1",
+      "active": true,
+      "roles": ["user"]
+    },
+    "user2": {
+      "username": "user2",
+      "password": "password2",
+      "active": true,
+      "roles": ["user"]
+    },
+    "admin": {
+      "username": "admin",
+      "password": "adminpass",
+      "active": true,
+      "roles": ["user", "admin"]
+    }
+  }
+  
