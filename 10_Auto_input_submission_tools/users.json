@@ -17,6 +17,10 @@
       "password": "adminpass",
       "active": true,
       "roles": ["user", "admin"]
+    },
+
+    "user3":{
+      "hello ":"there!"
     }
   }
   
